@@ -1,6 +1,6 @@
 # Installation instructions for OwnTone
 
-This document contains instructions for installing OwnTone from the git tree.
+This document contains instructions for installing OwnTone from the git tree.Cancel changes
 
 The source for this version of OwnTone can be found here:
 [owntone/owntone-server](https://github.com/owntone/owntone-server.git)
@@ -9,7 +9,7 @@ The source for this version of OwnTone can be found here:
 
 See the instructions here:
 [OwnTone server (iTunes server) -
-Raspberry Pi Forums](http://www.raspberrypi.org/phpBB3/viewtopic.php?t=49928)
+Raspberry Pi Forums](http://www.raspberrypi.org/phpBB3/viewtopic.php?t=49928)d
 
 ## Quick version for Debian/Ubuntu users
 
